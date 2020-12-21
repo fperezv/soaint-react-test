@@ -1,0 +1,13 @@
+Examen - Soaint
+
+- Corrección de sintaxis de código
+    - Cerrar correctamente el componente FethGithub
+    - Poner el nombre de variable correcto para mostrar el país
+- Optimización de código
+    - Agregar librería axios para mejor control de peticiones a un servidor
+
+Propuestas
+
+- Implementación de librería redux para un mejor manejo de componentes
+- Implementación de axios para un mejor control de peticiones
+- Separación de clases para tener una mejor legibilidad de código, aplicando los principios descritos en SOLID
